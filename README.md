@@ -48,5 +48,3 @@ To demonstrate the generation and analysis of simulated clinical data with commo
 | **Adverse Events**       | 13 (30.2%)              | 9 (15.8%)                 | 0.084        |
 
 <sub>¹ Mean (SD) or n (%). ² Wilcoxon rank sum test; Pearson’s Chi-squared test.</sub>
-
-<sub>¹ Mean (SD) or n (%). ² Wilcoxon rank sum test; Pearson’s Chi-squared test.</sub>
