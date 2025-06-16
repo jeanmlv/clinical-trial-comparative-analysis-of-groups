@@ -38,13 +38,15 @@ To demonstrate the generation and analysis of simulated clinical data with commo
 
 ### 📋 Table 1. Baseline Characteristics of Patients
 
-| **Characteristic**      | **Control N = 43**     | **Treatment N = 57**    | **p-value** |
-|--------------------------|------------------------|--------------------------|-------------|
-| **Age (years)**          | 49.5 (10.2)            | 49.5 (9.3)               | 0.7         |
-| **Sex**                  |                        |                          | 0.3         |
-| - Female                 | 21 (48.8%)             | 22 (38.6%)               |             |
-| - Male                   | 22 (51.2%)             | 35 (61.4%)               |             |
-| **Efficacy Score**       | 64.8 (4.2)             | 71.2 (5.1)               | <0.001      |
-| **Adverse Events**       | 13 (30.2%)             | 9 (15.8%)                | 0.084       |
+| **Characteristic**      | **Control N = 43¹**     | **Treatment N = 57¹**    | **p-value²** |
+|--------------------------|-------------------------|---------------------------|--------------|
+| **Age (years)**          | 49.5 (10.2)             | 49.5 (9.3)                | 0.7          |
+| **Sex**                  |                         |                           | 0.3          |
+| - Female                 | 21 (48.8%)              | 22 (38.6%)                |              |
+| - Male                   | 22 (51.2%)              | 35 (61.4%)                |              |
+| **Efficacy Score**       | 64.8 (4.2)              | 71.2 (5.1)                | <0.001       |
+| **Adverse Events**       | 13 (30.2%)              | 9 (15.8%)                 | 0.084        |
+
+<sub>¹ Mean (SD) or n (%). ² Wilcoxon rank sum test; Pearson’s Chi-squared test.</sub>
 
 <sub>¹ Mean (SD) or n (%). ² Wilcoxon rank sum test; Pearson’s Chi-squared test.</sub>
