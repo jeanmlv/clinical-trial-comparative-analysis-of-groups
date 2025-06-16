@@ -2,12 +2,6 @@
 
 > This project demonstrates how to simulate clinical trial data and perform a basic statistical analysis using R. It includes a descriptive summary (Table 1), a comparison of treatment efficacy, and a logistic regression model to assess adverse events.
 
-# 🩺 Clinical Data Simulation and Analysis in R
-
-This project showcases a basic simulation of clinical trial data and its statistical evaluation using R. It includes a descriptive summary table, hypothesis testing, and a logistic regression model to explore factors associated with adverse events.
-
----
-
 ## 🎯 Objective
 
 To demonstrate the generation and analysis of simulated clinical data with common statistical methods used in clinical research:
